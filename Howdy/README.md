@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @TomcatTech
+- 👀 I’m interested in Unamanned systems, A.I., vision learning and anything with nice boobs and cooks ...
+- 🌱 I’m currently learning autopilot systems ...
+- 💞️ I’m looking to collaborate on Cube autopilots, UAVs and UAS. ...
+- 📫 Email is Craig@USAsianAeroservices.com
+<!---
+TomcatTech/TomcatTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
